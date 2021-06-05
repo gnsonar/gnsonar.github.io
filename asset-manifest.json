@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bab0b925.chunk.css",
+    "main.js": "/static/js/main.ae7d92ac.chunk.js",
+    "main.js.map": "/static/js/main.ae7d92ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4cc7d4f7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4cc7d4f7.js.map",
+    "static/js/2.4702720f.chunk.js": "/static/js/2.4702720f.chunk.js",
+    "static/js/2.4702720f.chunk.js.map": "/static/js/2.4702720f.chunk.js.map",
+    "static/js/3.0eca4d82.chunk.js": "/static/js/3.0eca4d82.chunk.js",
+    "static/js/3.0eca4d82.chunk.js.map": "/static/js/3.0eca4d82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.4702720f.chunk.js.LICENSE.txt": "/static/js/2.4702720f.chunk.js.LICENSE.txt",
+    "static/media/audit.496ed89c.png": "/static/media/audit.496ed89c.png",
+    "static/media/building.36886ed1.jpg": "/static/media/building.36886ed1.jpg",
+    "static/media/dogus.306dd1af.jpg": "/static/media/dogus.306dd1af.jpg",
+    "static/media/down.4ccb10f6.svg": "/static/media/down.4ccb10f6.svg",
+    "static/media/ginger.2d382a90.jpg": "/static/media/ginger.2d382a90.jpg",
+    "static/media/header-address.0a05dcef.svg": "/static/media/header-address.0a05dcef.svg",
+    "static/media/headset.f140de2e.svg": "/static/media/headset.f140de2e.svg",
+    "static/media/jp_infra.48c45e08.png": "/static/media/jp_infra.48c45e08.png",
+    "static/media/kone.9696c245.png": "/static/media/kone.9696c245.png",
+    "static/media/landt.f8d17ae5.gif": "/static/media/landt.f8d17ae5.gif",
+    "static/media/new_logo.5783ef6c.png": "/static/media/new_logo.5783ef6c.png",
+    "static/media/tata_proj.3523df40.jpg": "/static/media/tata_proj.3523df40.jpg",
+    "static/media/training.d6a52134.jpg": "/static/media/training.d6a52134.jpg",
+    "static/media/training2.91da0c5b.jpeg": "/static/media/training2.91da0c5b.jpeg",
+    "static/media/training6.be7611dd.jpeg": "/static/media/training6.be7611dd.jpeg",
+    "static/media/trump_tower_mumbai.97bf7da3.png": "/static/media/trump_tower_mumbai.97bf7da3.png",
+    "static/media/world_view_mumbai.902d4159.jpeg": "/static/media/world_view_mumbai.902d4159.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc7d4f7.js",
+    "static/js/2.4702720f.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.ae7d92ac.chunk.js"
+  ]
+}

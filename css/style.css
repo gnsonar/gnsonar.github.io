@@ -1506,8 +1506,8 @@ h3 {
 /* line 397, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_header.scss */
 .header-area .address_bar {
   background: rgba(4, 14, 39, 0.5);
-  padding-top: 29px;
-  padding-bottom: 64px;
+  padding-top: 0px;
+  padding-bottom: 43px;
 }
 
 /* line 405, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_header.scss */
@@ -1538,12 +1538,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/photo1.jpg);
 }
 
 /* line 4, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner2.png);
+  background-image: url(../img/banner/9.jpg);
 }
 
 /* line 7, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
@@ -1554,7 +1554,7 @@ h3 {
 
 /* line 20, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .slider_area .single_slider {
-  height: 900px;
+  height: 780px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1570,7 +1570,7 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 20, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 600px;
+    height: 500px;
   }
 }
 
@@ -1584,7 +1584,7 @@ h3 {
 /* line 35, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
   font-family: "Raleway", sans-serif;
-  font-size: 60px;
+  font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 700;
@@ -1595,7 +1595,7 @@ h3 {
 
 /* line 44, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 span {
-  font-weight: 700;
+  font-weight: 500;
 }
 
 @media (max-width: 767px) {
@@ -1676,8 +1676,8 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_about.scss */
 .about_area {
-  padding-top: 90px;
-  padding-bottom: 100px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
 
 @media (max-width: 767px) {
@@ -2130,6 +2130,16 @@ h3 {
   display: block;
 }
 
+.more_pro_btn_1 {
+  display: block;
+  padding: 15px 0;
+  font-weight: 500;
+  font-size: 24px;
+  background: #fff;
+  color: #fff;
+  text-align: center;
+  display: block;
+}
 /* line 119, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_gallery.scss */
 .more_pro_btn:hover {
   color: #fff;
@@ -2825,7 +2835,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_service.scss */
 .service_area {
-  padding-bottom: 120px;
+  padding-bottom: 20px;
 }
 
 /* line 3, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_service.scss */
@@ -2978,8 +2988,8 @@ h3 {
 /* line 10, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_footer.scss */
 .footer .download_brochure .bordered_1px {
   border-bottom: 1px solid #363E52;
-  padding-bottom: 60px;
-  padding-top: 80px;
+  padding-bottom: 1px;
+  padding-top: 10px;
 }
 
 /* line 19, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_footer.scss */
@@ -3020,8 +3030,8 @@ h3 {
 
 /* line 42, ../../Arafath/CL/Cl November/226. Construction/HTML/scss/_footer.scss */
 .footer .footer_top {
-  padding-top: 75px;
-  padding-bottom: 124px;
+  padding-top: 35px;
+  padding-bottom: 84px;
 }
 
 @media (max-width: 767px) {
